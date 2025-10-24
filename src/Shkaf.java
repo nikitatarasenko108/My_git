@@ -4,6 +4,6 @@ public class Shkaf {
     }
 
     public static void hov(){
-        System.out.println("first push");
+        System.out.println("hi");
     }
 }
