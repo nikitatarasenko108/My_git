@@ -7,4 +7,3 @@ public class Shkaf {
         System.out.println("first push");
     }
 }
-
